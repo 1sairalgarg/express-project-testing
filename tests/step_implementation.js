@@ -2,7 +2,7 @@ const { openBrowser, goto, textBox, into, write, click, link, closeBrowser } = r
 (async () => {
     try {
        
-    
+    await openBrowser();
 step("Goto notejam signin page", async () => {
     await goto('http://127.0.0.1:3000/');
 });
