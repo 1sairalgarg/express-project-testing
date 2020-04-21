@@ -1,3 +1,6 @@
+#Notes and Pads Creation
+this test scenerion is designed to test the functionality of Pads and Notes creation for various Pads. 
+
 ## To Create a Pad
 * click on new Pad
 * write the name of the pad
